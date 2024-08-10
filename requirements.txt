@@ -1,4 +1,0 @@
-distutils
-streamlit
-pandas==1.5.2
-scikit-learn==1.2.0
