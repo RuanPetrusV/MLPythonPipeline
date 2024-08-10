@@ -1,5 +1,5 @@
-pip install --upgrade pip
-python3 -m pip install setuptools
+--upgrade pip
+pip install setuptools
 streamlit
 pandas==1.5.2
 scikit-learn==1.2.0
